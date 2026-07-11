@@ -34,13 +34,17 @@ Não haverá intervenientes. *(Parceiros operacionais entram como cartas de apoi
 
 O projeto estrutura, na sede do Instituto Brasa Zona Norte — prédio de três pavimentos na Av. Baltazar de Oliveira Garcia, corredor de transporte coletivo a uma quadra do Terminal Triângulo —, duas capacidades formativas permanentes: (i) **Laboratório de Competências Digitais**, com 14 estações de trabalho, instalado mediante pequenas reformas (divisória em gesso acartonado e acabamentos internos, sem qualquer intervenção estrutural — Anexo II juntado) em espaço atualmente subutilizado do imóvel; e (ii) **aparelhamento do estúdio-escola de beleza** existente, hoje equipado apenas para maquiagem, com as bancadas, instrumentos e equipamentos de esterilização exigidos pelo ofício de manicure e pedicure.
 
-Sobre essa base física, o projeto implanta **três formações novas**, inexistentes no portfólio atual do Instituto:
+Sobre essa base física, o projeto implanta **quatro formações novas**, inexistentes no portfólio atual do Instituto:
 
-**a) Inteligência Artificial Aplicada a Negócios e Prestação de Serviços** (24h): capacitação prática no uso de ferramentas de IA generativa para criar e administrar micronegócios e para a prestação remunerada de serviços digitais a pequenos comércios e empreendedores do território, com um entregável verificável por aluno (kit do próprio negócio ou portfólio de serviços digitais). 6 turmas de 12 alunos, 72 vagas.
+**a) IA para a Gestão do Próprio Negócio** (24h): capacitação prática de quem já opera ou está estruturando um micronegócio no uso de ferramentas de IA generativa para administrá-lo e fazê-lo crescer — atendimento automatizado, orçamentos e propostas, precificação assistida, marketing e conteúdo do próprio negócio. Entregável por aluno: kit de gestão do próprio negócio em funcionamento. 3 turmas de 12 alunos, 36 vagas.
 
-**b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (54h, sendo 48h de formação técnica e 6h de estágio interno supervisionado com atendimentos reais): formação completa no ofício — técnica, biossegurança com esterilização, precificação. 6 turmas de 10 alunas, 60 vagas.
+**b) Prestação de Serviços Digitais com Inteligência Artificial** (24h): formação de prestadores de serviços digitais — pessoas cujo negócio passa a ser a própria oferta de serviços com IA (criação de artes, textos e conteúdo, automações simples e apoio digital) a pequenos comércios e empreendedores do território. Entregável por aluno: portfólio de 3 serviços vendáveis e simulação de atendimento a cliente real. 3 turmas de 12 alunos, 36 vagas.
 
-**c) Autonomia 60+ — Inclusão Digital, Proteção Financeira e Prevenção de Golpes contra a Pessoa Idosa** (16h, 8 encontros de 2h): oficinas práticas no aparelho da própria participante, cobrindo comunicação digital segura, proteção bancária, empréstimo consignado (consulta, bloqueio e contestação), reconhecimento de fraudes — inclusive as potencializadas por inteligência artificial, como clonagem de voz de familiares — e acesso autônomo a serviços públicos digitais. 8 turmas de 10 participantes, 80 vagas, com monitoria intergeracional exercida por egressos jovens da formação de IA (1 monitor para cada 5–6 participantes).
+As formações a e b compartilham módulo inicial comum de alfabetização em IA e uso responsável (4h), ministrado em sessões conjuntas — evitando duplicidade de instrutoria e otimizando o uso do laboratório.
+
+**c) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (54h, sendo 48h de formação técnica e 6h de estágio interno supervisionado com atendimentos reais): formação completa no ofício — técnica, biossegurança com esterilização, precificação. 6 turmas de 10 alunas, 60 vagas.
+
+**d) Autonomia 60+ — Inclusão Digital, Proteção Financeira e Prevenção de Golpes contra a Pessoa Idosa** (16h, 8 encontros de 2h): oficinas práticas no aparelho da própria participante, cobrindo comunicação digital segura, proteção bancária, empréstimo consignado (consulta, bloqueio e contestação), reconhecimento de fraudes — inclusive as potencializadas por inteligência artificial, como clonagem de voz de familiares — e acesso autônomo a serviços públicos digitais. 8 turmas de 10 participantes, 80 vagas, com monitoria intergeracional exercida por egressos jovens das formações de IA (1 monitor para cada 5–6 participantes).
 
 Três mecanismos integram as formações em um único sistema: (1) **monitoria intergeracional** — jovens formados em IA apoiam as turmas da pessoa idosa; (2) **estágio interno real** — as alunas de manicure realizam seus atendimentos supervisionados junto às turmas 60+; (3) **Estúdio Aberto e Lab Aberto** — nos turnos ociosos, egressos certificados utilizam a infraestrutura para trabalhar (atendimentos reais e serviços digitais), mediante taxa simbólica de manutenção que contribui para a sustentabilidade do objeto. Cada formação nova inclui, ainda, a preparação de co-instrutores voluntários, garantindo a continuidade da oferta após a vigência.
 
@@ -68,7 +72,7 @@ A execução por organização da sociedade civil justifica-se pela capilaridade
 
 1. Infraestrutura formativa permanente instalada e em operação a partir do 6º mês (laboratório de 14 estações + estúdio-escola aparelhado);
 2. 212 pessoas matriculadas e **ao menos 148 concluintes** nas três formações (premissa conservadora de conclusão de 70%, declarada com base na experiência operacional do proponente; será recalibrada na linha de base);
-3. Entre os egressos das formações a e b com janela de 6 meses dentro da vigência: **≥30% com renda nova verificada** (atividade autônoma, formalização como MEI ou prestação de serviços evidenciada);
+3. Entre os egressos das formações a, b e c com janela de 6 meses dentro da vigência: **≥30% com renda nova verificada** (atividade autônoma, formalização como MEI ou prestação de serviços evidenciada);
 4. Entre as concluintes da formação c: **ganho ≥40% em teste situacional de reconhecimento de golpes** (aplicação pré/pós) e 100% com verificação em duas etapas ativada;
 5. Estúdio Aberto e Lab Aberto operando a partir do 12º mês, com agenda regular de egressos;
 6. 5.000 cartilhas distribuídas; 12+ co-instrutores voluntários preparados para continuidade da oferta.
@@ -82,7 +86,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | Indicador | Fórmula | Meta | Fonte de verificação | Periodicidade |
 | --- | --- | --- | --- | --- |
 | Taxa de conclusão | concluintes ÷ matriculados ×100 | ≥70% | Listas de presença e certificados | Semestral |
-| Renda nova (formações a, b) | egressos com renda autônoma/MEI/prestação de serviços verificada em 6 meses ÷ egressos da coorte ×100 | ≥30% | Pesquisa de egressos com evidência (registro MEI, comprovantes de venda/serviço, declaração com evidência) | Semestral |
+| Renda nova (formações a–c) | egressos com renda autônoma/MEI/prestação de serviços verificada em 6 meses ÷ egressos da coorte ×100 | ≥30% | Pesquisa de egressos com evidência (registro MEI, comprovantes de venda/serviço, declaração com evidência) | Semestral |
 | Competência protetiva (formação c) | (nota pós − nota pré) ÷ nota pré ×100 | ≥40% | Teste situacional aplicado por avaliador externo | Por turma |
 | Proteção ativada (formação c) | participantes com verificação em 2 etapas ativada ÷ concluintes ×100 | 100% | Demonstração prática registrada | Por turma |
 | Progressão na trilha | concluintes que se matriculam em nova formação ÷ concluintes ×100 | [PREENCHER: meta após levantamento] | Registros de matrícula | Semestral |
@@ -103,7 +107,8 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | | 1.2 Aquisição e instalação: laboratório (14 estações, rede, projetor) | estação instalada / 14 | [ORÇAR] | 2–5 |
 | | 1.3 Aparelhamento do estúdio p/ manicure (bancadas, instrumentos, esterilização) | estúdio aparelhado / 1 | [ORÇAR] | 2–5 |
 | | 1.4 Tablets de apoio p/ formação 60+ | tablet / 8 | [ORÇAR] | 3–5 |
-| **M2 Formação IA** | 2.1 Turmas de IA Aplicada a Negócios e Prestação de Serviços | turma concluída / 6 (72 matriculados; ≥50 concluintes) | [ORÇAR: instrutoria por turma ×6] | 7–22 |
+| **M2 Formações IA** | 2.1 Turmas "IA para a Gestão do Próprio Negócio" | turma concluída / 3 (36 matriculados; ≥25 concluintes) | [ORÇAR ×3] | 7–22 |
+| | 2.2 Turmas "Prestação de Serviços Digitais com IA" | turma concluída / 3 (36 matriculados; ≥25 concluintes) | [ORÇAR ×3] | 7–22 |
 | **M3 Formação Manicure** | 3.1 Turmas de Manicure e Pedicure | turma concluída / 6 (60 matriculadas; ≥42 concluintes) | [ORÇAR ×6 + consumíveis por turma] | 7–22 |
 | **M4 Formação 60+** | 4.1 Turmas Autonomia 60+ | turma concluída / 8 (80 matriculados; ≥60 concluintes) | [ORÇAR ×8] | 10–23 |
 | **M5 Material pedagógico** | 5.1 Produção e distribuição da cartilha (impressa + áudio) | exemplar / 5.000 | [ORÇAR] | 6–20 |
@@ -140,7 +145,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 
 | Função | Atividade | Horas | Valor/hora | Total |
 | --- | --- | --- | --- | --- |
-| Instrutor(a) de IA | 6 turmas × 24h + preparação | [calc] | [ORÇAR] | [calc] |
+| Instrutor(a) de IA | 6 turmas × 24h (2 formações × 3 turmas, módulo inicial de 4h em sessões conjuntas) + preparação | [calc] | [ORÇAR] | [calc] |
 | Instrutor(a) de manicure/pedicure | 6 turmas × 54h (48h formação + 6h estágio supervisionado) + preparação | [calc] | [ORÇAR] | [calc] |
 | Educador(a) da formação 60+ | 8 turmas × 16h + preparação | [calc] | [ORÇAR] | [calc] |
 | Avaliador(a) externo(a) | linha de base + pré/pós + relatórios | [calc] | [ORÇAR] | [calc] |
