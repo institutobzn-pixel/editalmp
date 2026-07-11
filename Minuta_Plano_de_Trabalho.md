@@ -36,11 +36,11 @@ O projeto estrutura, na sede do Instituto Brasa Zona Norte — prédio de três 
 
 Sobre essa base física, o projeto implanta **três formações novas**, inexistentes no portfólio atual do Instituto:
 
-**a) Inteligência Artificial Aplicada ao Trabalho e à Renda** (40h): capacitação prática no uso de ferramentas de IA generativa aplicadas à busca de emprego e à operação de micronegócios, com um entregável verificável por aluno (kit digital profissional). 6 turmas, 90 vagas.
+**a) Inteligência Artificial Aplicada ao Trabalho e à Renda** (24h): capacitação prática no uso de ferramentas de IA generativa aplicadas à busca de emprego e à operação de micronegócios, com um entregável verificável por aluno (kit digital profissional). 6 turmas de 12 alunos, 72 vagas.
 
-**b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (60h): formação completa no ofício — técnica, biossegurança com esterilização, precificação — encerrada com estágio interno de atendimentos reais supervisionados. 6 turmas, 72 vagas.
+**b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (40h): formação completa no ofício — técnica, biossegurança com esterilização, precificação — encerrada com estágio interno de atendimentos reais supervisionados. 6 turmas de 10 alunas, 60 vagas.
 
-**c) Autonomia 60+ — Inclusão Digital, Proteção Financeira e Prevenção de Golpes contra a Pessoa Idosa** (24h, encontros de 2h): oficinas práticas no aparelho da própria participante, cobrindo comunicação digital segura, proteção bancária, empréstimo consignado (consulta, bloqueio e contestação), reconhecimento de fraudes — inclusive as potencializadas por inteligência artificial, como clonagem de voz de familiares — e acesso autônomo a serviços públicos digitais. 8 turmas, 96 vagas, com monitoria intergeracional exercida por egressos jovens da formação de IA (1 monitor para cada 5–6 participantes).
+**c) Autonomia 60+ — Inclusão Digital, Proteção Financeira e Prevenção de Golpes contra a Pessoa Idosa** (16h, 8 encontros de 2h): oficinas práticas no aparelho da própria participante, cobrindo comunicação digital segura, proteção bancária, empréstimo consignado (consulta, bloqueio e contestação), reconhecimento de fraudes — inclusive as potencializadas por inteligência artificial, como clonagem de voz de familiares — e acesso autônomo a serviços públicos digitais. 8 turmas de 10 participantes, 80 vagas, com monitoria intergeracional exercida por egressos jovens da formação de IA (1 monitor para cada 5–6 participantes).
 
 Três mecanismos integram as formações em um único sistema: (1) **monitoria intergeracional** — jovens formados em IA apoiam as turmas da pessoa idosa; (2) **estágio interno real** — as alunas de manicure realizam seus atendimentos supervisionados junto às turmas 60+; (3) **Estúdio Aberto e Lab Aberto** — nos turnos ociosos, egressos certificados utilizam a infraestrutura para trabalhar (atendimentos reais e serviços digitais), mediante taxa simbólica de manutenção que contribui para a sustentabilidade do objeto. Cada formação nova inclui, ainda, a preparação de co-instrutores voluntários, garantindo a continuidade da oferta após a vigência.
 
@@ -58,16 +58,16 @@ A execução por organização da sociedade civil justifica-se pela capilaridade
 
 ### 3.5 Público-alvo (campo "indicar o público alvo")
 
-**Formações a e b:** pessoas de 16 a 59 anos em situação de vulnerabilidade social, residentes na Zona Norte de Porto Alegre, selecionadas por inscrição pública com matriz de prioridade documentada: (1º) pessoas atingidas pelas enchentes de 2024 (comprovação por comprovante de residência em área atingida, saque calamidade ou cadastro municipal); (2º) mulheres chefes de família monoparental; (3º) inscritos no CadÚnico; (4º) jovens de 16–29 anos sem primeiro emprego formal. **162 vagas diretas.**
+**Formações a e b:** pessoas de 16 a 59 anos em situação de vulnerabilidade social, residentes na Zona Norte de Porto Alegre, selecionadas por inscrição pública com matriz de prioridade documentada: (1º) pessoas atingidas pelas enchentes de 2024 (comprovação por comprovante de residência em área atingida, saque calamidade ou cadastro municipal); (2º) mulheres chefes de família monoparental; (3º) inscritos no CadÚnico; (4º) jovens de 16–29 anos sem primeiro emprego formal. **132 vagas diretas.**
 
-**Formação c:** pessoas idosas (60 anos ou mais) residentes na Zona Norte, com prioridade para renda de até 2 salários mínimos, quem reside só, 75+, vítimas prévias de golpe ou abuso patrimonial e atingidas pelas enchentes. **96 vagas diretas.**
+**Formação c:** pessoas idosas (60 anos ou mais) residentes na Zona Norte, com prioridade para renda de até 2 salários mínimos, quem reside só, 75+, vítimas prévias de golpe ou abuso patrimonial e atingidas pelas enchentes. **80 vagas diretas.**
 
-**Beneficiários indiretos:** familiares dos participantes (estimados em 3 por beneficiário direto — ~774 pessoas) e comunidade alcançada pelas 5.000 cartilhas e pelos atendimentos do Estúdio Aberto. **Total estimado: 258 diretos + ~5.700 indiretos.**
+**Beneficiários indiretos:** familiares dos participantes (estimados em 3 por beneficiário direto — ~636 pessoas) e comunidade alcançada pelas 5.000 cartilhas e pelos atendimentos do Estúdio Aberto. **Total estimado: 212 diretos + ~5.600 indiretos.**
 
 ### 3.6 Resultados esperados
 
 1. Infraestrutura formativa permanente instalada e em operação a partir do 6º mês (laboratório de 14 estações + estúdio-escola aparelhado);
-2. 258 pessoas matriculadas e **ao menos 180 concluintes** nas três formações (premissa conservadora de conclusão de 70%, declarada com base na experiência operacional do proponente; será recalibrada na linha de base);
+2. 212 pessoas matriculadas e **ao menos 148 concluintes** nas três formações (premissa conservadora de conclusão de 70%, declarada com base na experiência operacional do proponente; será recalibrada na linha de base);
 3. Entre os egressos das formações a e b com janela de 6 meses dentro da vigência: **≥30% com inserção produtiva verificada** (emprego formal, estágio, aprendizagem ou renda autônoma evidenciada);
 4. Entre as concluintes da formação c: **ganho ≥40% em teste situacional de reconhecimento de golpes** (aplicação pré/pós) e 100% com verificação em duas etapas ativada;
 5. Estúdio Aberto e Lab Aberto operando a partir do 12º mês, com agenda regular de egressos;
@@ -103,9 +103,9 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | | 1.2 Aquisição e instalação: laboratório (14 estações, rede, projetor) | estação instalada / 14 | [ORÇAR] | 2–5 |
 | | 1.3 Aparelhamento do estúdio p/ manicure (bancadas, instrumentos, esterilização) | estúdio aparelhado / 1 | [ORÇAR] | 2–5 |
 | | 1.4 Tablets de apoio p/ formação 60+ | tablet / 8 | [ORÇAR] | 3–5 |
-| **M2 Formação IA** | 2.1 Turmas de IA Aplicada ao Trabalho e à Renda | turma concluída / 6 (90 matriculados; ≥60 concluintes) | [ORÇAR: instrutoria por turma ×6] | 7–22 |
-| **M3 Formação Manicure** | 3.1 Turmas de Manicure e Pedicure | turma concluída / 6 (72 matriculadas; ≥48 concluintes) | [ORÇAR ×6 + consumíveis por turma] | 7–22 |
-| **M4 Formação 60+** | 4.1 Turmas Autonomia 60+ | turma concluída / 8 (96 matriculados; ≥72 concluintes) | [ORÇAR ×8] | 10–23 |
+| **M2 Formação IA** | 2.1 Turmas de IA Aplicada ao Trabalho e à Renda | turma concluída / 6 (72 matriculados; ≥50 concluintes) | [ORÇAR: instrutoria por turma ×6] | 7–22 |
+| **M3 Formação Manicure** | 3.1 Turmas de Manicure e Pedicure | turma concluída / 6 (60 matriculadas; ≥42 concluintes) | [ORÇAR ×6 + consumíveis por turma] | 7–22 |
+| **M4 Formação 60+** | 4.1 Turmas Autonomia 60+ | turma concluída / 8 (80 matriculados; ≥60 concluintes) | [ORÇAR ×8] | 10–23 |
 | **M5 Material pedagógico** | 5.1 Produção e distribuição da cartilha (impressa + áudio) | exemplar / 5.000 | [ORÇAR] | 6–20 |
 | **M6 Integração e legado** | 6.1 Implantação Estúdio/Lab Aberto + formação de co-instrutores | co-instrutor preparado / 12; agenda ativa / 1 | [ORÇAR] | 11–24 |
 | | 6.2 Avaliação externa (linha de base, pré/pós, relatório final) | relatório / 3 | [ORÇAR] | 6–24 |
@@ -140,9 +140,9 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 
 | Função | Atividade | Horas | Valor/hora | Total |
 | --- | --- | --- | --- | --- |
-| Instrutor(a) de IA | 6 turmas × 40h + preparação | [calc] | [ORÇAR] | [calc] |
-| Instrutor(a) de manicure/pedicure | 6 turmas × 60h + preparação | [calc] | [ORÇAR] | [calc] |
-| Educador(a) da formação 60+ | 8 turmas × 24h + preparação | [calc] | [ORÇAR] | [calc] |
+| Instrutor(a) de IA | 6 turmas × 24h + preparação | [calc] | [ORÇAR] | [calc] |
+| Instrutor(a) de manicure/pedicure | 6 turmas × 40h + preparação | [calc] | [ORÇAR] | [calc] |
+| Educador(a) da formação 60+ | 8 turmas × 16h + preparação | [calc] | [ORÇAR] | [calc] |
 | Avaliador(a) externo(a) | linha de base + pré/pós + relatórios | [calc] | [ORÇAR] | [calc] |
 
 ## 9. INFORMAÇÕES ADICIONAIS (até 10 arquivos, PDF)
