@@ -38,7 +38,7 @@ Sobre essa base física, o projeto implanta **três formações novas**, inexist
 
 **a) Inteligência Artificial Aplicada ao Trabalho e à Renda** (24h): capacitação prática no uso de ferramentas de IA generativa aplicadas à busca de emprego e à operação de micronegócios, com um entregável verificável por aluno (kit digital profissional). 6 turmas de 12 alunos, 72 vagas.
 
-**b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (40h): formação completa no ofício — técnica, biossegurança com esterilização, precificação — encerrada com estágio interno de atendimentos reais supervisionados. 6 turmas de 10 alunas, 60 vagas.
+**b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (54h, sendo 48h de formação técnica e 6h de estágio interno supervisionado com atendimentos reais): formação completa no ofício — técnica, biossegurança com esterilização, precificação. 6 turmas de 10 alunas, 60 vagas.
 
 **c) Autonomia 60+ — Inclusão Digital, Proteção Financeira e Prevenção de Golpes contra a Pessoa Idosa** (16h, 8 encontros de 2h): oficinas práticas no aparelho da própria participante, cobrindo comunicação digital segura, proteção bancária, empréstimo consignado (consulta, bloqueio e contestação), reconhecimento de fraudes — inclusive as potencializadas por inteligência artificial, como clonagem de voz de familiares — e acesso autônomo a serviços públicos digitais. 8 turmas de 10 participantes, 80 vagas, com monitoria intergeracional exercida por egressos jovens da formação de IA (1 monitor para cada 5–6 participantes).
 
@@ -141,7 +141,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | Função | Atividade | Horas | Valor/hora | Total |
 | --- | --- | --- | --- | --- |
 | Instrutor(a) de IA | 6 turmas × 24h + preparação | [calc] | [ORÇAR] | [calc] |
-| Instrutor(a) de manicure/pedicure | 6 turmas × 40h + preparação | [calc] | [ORÇAR] | [calc] |
+| Instrutor(a) de manicure/pedicure | 6 turmas × 54h (48h formação + 6h estágio supervisionado) + preparação | [calc] | [ORÇAR] | [calc] |
 | Educador(a) da formação 60+ | 8 turmas × 16h + preparação | [calc] | [ORÇAR] | [calc] |
 | Avaliador(a) externo(a) | linha de base + pré/pós + relatórios | [calc] | [ORÇAR] | [calc] |
 
