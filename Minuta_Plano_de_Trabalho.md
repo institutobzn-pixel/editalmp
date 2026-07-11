@@ -40,7 +40,7 @@ Sobre essa base física, o projeto implanta **quatro formações novas**, inexis
 
 **b) Prestação de Serviços Digitais com Inteligência Artificial** (24h): formação de prestadores de serviços digitais — pessoas cujo negócio passa a ser a própria oferta de serviços com IA (criação de artes, textos e conteúdo, automações simples e apoio digital) a pequenos comércios e empreendedores do território. Entregável por aluno: portfólio de 3 serviços vendáveis e simulação de atendimento a cliente real. 3 turmas de 12 alunos, 36 vagas.
 
-As formações a e b compartilham módulo inicial comum de alfabetização em IA e uso responsável (4h), ministrado em sessões conjuntas — evitando duplicidade de instrutoria e otimizando o uso do laboratório.
+As formações a e b têm grade de 8 encontros de 3 horas-aula e compartilham o primeiro encontro (alfabetização em IA e uso responsável, 3h), ministrado em sessões conjuntas — evitando duplicidade de instrutoria e otimizando o uso do laboratório.
 
 **c) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (54h, sendo 48h de formação técnica e 6h de estágio interno supervisionado com atendimentos reais): formação completa no ofício — técnica, biossegurança com esterilização, precificação. 6 turmas de 10 alunas, 60 vagas.
 
@@ -145,7 +145,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 
 | Função | Atividade | Horas | Valor/hora | Total |
 | --- | --- | --- | --- | --- |
-| Instrutor(a) de IA | 6 turmas × 24h (2 formações × 3 turmas, módulo inicial de 4h em sessões conjuntas) + preparação | [calc] | [ORÇAR] | [calc] |
+| Instrutor(a) de IA | 6 turmas × 24h (2 formações × 3 turmas, 8 encontros de 3h, 1º encontro conjunto) + preparação | [calc] | [ORÇAR] | [calc] |
 | Instrutor(a) de manicure/pedicure | 6 turmas × 54h (48h formação + 6h estágio supervisionado) + preparação | [calc] | [ORÇAR] | [calc] |
 | Educador(a) da formação 60+ | 8 turmas × 16h + preparação | [calc] | [ORÇAR] | [calc] |
 | Avaliador(a) externo(a) | linha de base + pré/pós + relatórios | [calc] | [ORÇAR] | [calc] |
