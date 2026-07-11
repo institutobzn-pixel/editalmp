@@ -36,7 +36,7 @@ O projeto estrutura, na sede do Instituto Brasa Zona Norte — prédio de três 
 
 Sobre essa base física, o projeto implanta **três formações novas**, inexistentes no portfólio atual do Instituto:
 
-**a) Inteligência Artificial Aplicada ao Trabalho e à Renda** (24h): capacitação prática no uso de ferramentas de IA generativa aplicadas à busca de emprego e à operação de micronegócios, com um entregável verificável por aluno (kit digital profissional). 6 turmas de 12 alunos, 72 vagas.
+**a) Inteligência Artificial Aplicada a Negócios e Prestação de Serviços** (24h): capacitação prática no uso de ferramentas de IA generativa para criar e administrar micronegócios e para a prestação remunerada de serviços digitais a pequenos comércios e empreendedores do território, com um entregável verificável por aluno (kit do próprio negócio ou portfólio de serviços digitais). 6 turmas de 12 alunos, 72 vagas.
 
 **b) Qualificação Profissional em Manicure e Pedicure com Biossegurança e Gestão do Serviço** (54h, sendo 48h de formação técnica e 6h de estágio interno supervisionado com atendimentos reais): formação completa no ofício — técnica, biossegurança com esterilização, precificação. 6 turmas de 10 alunas, 60 vagas.
 
@@ -68,7 +68,7 @@ A execução por organização da sociedade civil justifica-se pela capilaridade
 
 1. Infraestrutura formativa permanente instalada e em operação a partir do 6º mês (laboratório de 14 estações + estúdio-escola aparelhado);
 2. 212 pessoas matriculadas e **ao menos 148 concluintes** nas três formações (premissa conservadora de conclusão de 70%, declarada com base na experiência operacional do proponente; será recalibrada na linha de base);
-3. Entre os egressos das formações a e b com janela de 6 meses dentro da vigência: **≥30% com inserção produtiva verificada** (emprego formal, estágio, aprendizagem ou renda autônoma evidenciada);
+3. Entre os egressos das formações a e b com janela de 6 meses dentro da vigência: **≥30% com renda nova verificada** (atividade autônoma, formalização como MEI ou prestação de serviços evidenciada);
 4. Entre as concluintes da formação c: **ganho ≥40% em teste situacional de reconhecimento de golpes** (aplicação pré/pós) e 100% com verificação em duas etapas ativada;
 5. Estúdio Aberto e Lab Aberto operando a partir do 12º mês, com agenda regular de egressos;
 6. 5.000 cartilhas distribuídas; 12+ co-instrutores voluntários preparados para continuidade da oferta.
@@ -82,7 +82,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | Indicador | Fórmula | Meta | Fonte de verificação | Periodicidade |
 | --- | --- | --- | --- | --- |
 | Taxa de conclusão | concluintes ÷ matriculados ×100 | ≥70% | Listas de presença e certificados | Semestral |
-| Inserção produtiva (formações a, b) | egressos com ocupação/renda verificada em 6 meses ÷ egressos da coorte ×100 | ≥30% | Pesquisa de egressos com evidência (CTPS, MEI, registros de venda) | Semestral |
+| Renda nova (formações a, b) | egressos com renda autônoma/MEI/prestação de serviços verificada em 6 meses ÷ egressos da coorte ×100 | ≥30% | Pesquisa de egressos com evidência (registro MEI, comprovantes de venda/serviço, declaração com evidência) | Semestral |
 | Competência protetiva (formação c) | (nota pós − nota pré) ÷ nota pré ×100 | ≥40% | Teste situacional aplicado por avaliador externo | Por turma |
 | Proteção ativada (formação c) | participantes com verificação em 2 etapas ativada ÷ concluintes ×100 | 100% | Demonstração prática registrada | Por turma |
 | Progressão na trilha | concluintes que se matriculam em nova formação ÷ concluintes ×100 | [PREENCHER: meta após levantamento] | Registros de matrícula | Semestral |
@@ -103,7 +103,7 @@ O Instituto opera desde 2018 (como Associação Multiforme até 2025, mesmo CNPJ
 | | 1.2 Aquisição e instalação: laboratório (14 estações, rede, projetor) | estação instalada / 14 | [ORÇAR] | 2–5 |
 | | 1.3 Aparelhamento do estúdio p/ manicure (bancadas, instrumentos, esterilização) | estúdio aparelhado / 1 | [ORÇAR] | 2–5 |
 | | 1.4 Tablets de apoio p/ formação 60+ | tablet / 8 | [ORÇAR] | 3–5 |
-| **M2 Formação IA** | 2.1 Turmas de IA Aplicada ao Trabalho e à Renda | turma concluída / 6 (72 matriculados; ≥50 concluintes) | [ORÇAR: instrutoria por turma ×6] | 7–22 |
+| **M2 Formação IA** | 2.1 Turmas de IA Aplicada a Negócios e Prestação de Serviços | turma concluída / 6 (72 matriculados; ≥50 concluintes) | [ORÇAR: instrutoria por turma ×6] | 7–22 |
 | **M3 Formação Manicure** | 3.1 Turmas de Manicure e Pedicure | turma concluída / 6 (60 matriculadas; ≥42 concluintes) | [ORÇAR ×6 + consumíveis por turma] | 7–22 |
 | **M4 Formação 60+** | 4.1 Turmas Autonomia 60+ | turma concluída / 8 (80 matriculados; ≥60 concluintes) | [ORÇAR ×8] | 10–23 |
 | **M5 Material pedagógico** | 5.1 Produção e distribuição da cartilha (impressa + áudio) | exemplar / 5.000 | [ORÇAR] | 6–20 |
