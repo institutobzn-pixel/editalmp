@@ -1,8 +1,4 @@
 # Ementa — Inteligência Artificial para Prestação de Serviços e Geração de Renda
-## Projeto "Reconstruir e Prosperar ZN" — Instituto BZN — Edital 02/2026/FRBL
-### (Curso 2 de 4 — versão aprovada.)
-
-**48h · 16 encontros de 3 horas-aula · turmas de 10 · [nº de turmas a definir na consolidação]**
 
 ## Ficha técnica
 
@@ -10,6 +6,8 @@
 |---|---|
 | **Nome oficial** | Inteligência Artificial para Prestação de Serviços e Geração de Renda |
 | **Subtítulo** | Transforme habilidades em serviços digitais que geram renda |
+| **Carga horária** | 48 horas-aula — 16 encontros de 3 horas |
+| **Turmas** | 10 alunos por turma |
 | **Objetivo geral** | Capacitar pessoas para desenvolver serviços profissionais utilizando inteligência artificial, possibilitando geração de renda, inserção no mercado digital e criação de novos negócios. |
 | **Público-alvo** | Pessoas de 16 a 59 anos em situação de vulnerabilidade social, residentes na Zona Norte, **que não necessariamente possuem negócio próprio** e buscam uma nova fonte de renda por meio da prestação de serviços digitais, com prioridade conforme a matriz de vulnerabilidade do projeto (atingidos pelas enchentes de 2024, mulheres chefes de família, CadÚnico, jovens sem primeiro emprego). |
 | **Pré-requisitos** | Nenhum conhecimento prévio de tecnologia; desejo de gerar renda por conta própria. |
