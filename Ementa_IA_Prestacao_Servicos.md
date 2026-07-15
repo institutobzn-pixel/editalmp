@@ -28,22 +28,22 @@
 
 ## Grade modular — 16 encontros de 3h (48h)
 
-### Bloco I — Fundamentos, Engenharia de Prompt e Direcionamento (encontro 1)
+### Bloco I — Fundamentos, Prompt e Estratégia de Redes (encontros 1–2)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
 | 1 | Fundamentos de IA, Engenharia de Prompt e Direcionamento | O que a IA generativa faz e não faz; limites, erros, privacidade, LGPD e ética; **engenharia de prompt: estrutura contexto–tarefa–formato–exemplo, refinamento iterativo, prompts reutilizáveis para serviços**; panorama de serviços com demanda no território e escolha do foco de atuação | Biblioteca pessoal de prompts de serviço + foco de atuação definido |
+| 2 | Panorama das Redes Sociais para Prestação de Serviços | **Instagram, YouTube, Facebook, LinkedIn e TikTok: características, públicos, formatos e algoritmos de cada rede**; que tipo de conteúdo e serviço vender para cada plataforma; formatos, medidas e boas práticas por rede | Quadro-guia das redes + escolha das plataformas de foco do aluno |
 
-### Bloco II — Produção Criativa de Serviços (encontros 2–11 — núcleo do curso)
+### Bloco II — Produção Criativa de Serviços (encontros 3–11 — núcleo do curso)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 2 | Identidade Visual e Logotipo com IA | Criação de logotipos, paleta, tipografia e identidade de marca; variações e padronização | 1º serviço no portfólio: identidade visual completa |
-| 3 | Design de Materiais para Comércios | Cardápios, catálogos, convites, panfletos e apresentações para negócios locais | Kit de peças gráficas para um segmento |
-| 4 | Fotografia e Imagem de Produto com IA | Tratamento e aprimoramento de fotos; remoção e troca de fundo; fotos de catálogo para pequeno comércio | Pacote de imagens de produto tratadas |
-| 5 | Edição e Composição Visual Avançada | Montagens, mockups, banners, artes para campanhas e datas comemorativas | 2º serviço no portfólio: campanha visual |
-| 6 | Redação Publicitária e Conteúdo com IA | Textos de venda, descrições de produto, legendas e artigos; tom de voz da marca | 3º serviço no portfólio: pacote de textos |
-| 7 | Roteiro e Storytelling para Conteúdo | Roteiros para redes e vídeos; narrativa de marca; ganchos e chamadas | Roteiros prontos para produção |
-| 8 | Áudio, Narração e Locução com IA | Narração sintetizada, podcasts curtos, áudios de divulgação e trilhas | Peça de áudio para o portfólio |
-| 9 | Produção de Vídeo Curto para Redes | Edição assistida, legendas automáticas, cortes e vídeos verticais para redes | 4º serviço no portfólio: vídeo curto editado |
+| 3 | Identidade Visual e Logotipo com IA | Criação de logotipos, paleta, tipografia e identidade de marca; variações e padronização | 1º serviço no portfólio: identidade visual completa |
+| 4 | Design de Materiais para Comércios | Cardápios, catálogos, convites, panfletos e apresentações para negócios locais | Kit de peças gráficas para um segmento |
+| 5 | Fotografia e Imagem de Produto com IA | Tratamento e aprimoramento de fotos; remoção e troca de fundo; fotos de catálogo para pequeno comércio | Pacote de imagens de produto tratadas |
+| 6 | Edição e Composição Visual Avançada | Montagens, mockups, banners, artes para campanhas e datas comemorativas, adaptadas ao formato de cada rede | 2º serviço no portfólio: campanha visual |
+| 7 | Redação Publicitária e Conteúdo com IA | Textos de venda, descrições de produto, legendas e artigos; tom de voz da marca | 3º serviço no portfólio: pacote de textos |
+| 8 | Roteiro e Storytelling para Conteúdo | Roteiros para redes e vídeos; narrativa de marca; ganchos e chamadas | Roteiros prontos para produção |
+| 9 | Áudio e Vídeo Curto para Redes | Narração com IA, legendas automáticas, cortes e vídeos verticais para Instagram, TikTok e Reels | 4º serviço no portfólio: vídeo curto editado |
 | 10 | YouTube: Thumbnails, Títulos e Canal | **Thumbnails que geram cliques; títulos e descrições otimizados; organização e identidade de canal** | Pacote de thumbnails + otimização de vídeo |
 | 11 | Presença Digital e Automação de Atendimento | Gestão de conteúdo e calendário editorial para terceiros; perfis profissionais; respostas automáticas e fluxos de atendimento | 5º serviço no portfólio: gestão de presença + automação |
 
