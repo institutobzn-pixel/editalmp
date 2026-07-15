@@ -19,7 +19,7 @@
 | **Produto final** | **Portfólio Profissional de Serviços Digitais** (mínimo 3 serviços vendáveis) + **1 atendimento real a cliente-piloto concluído** + tabela de preços e canais de divulgação ativos. |
 
 ## Objetivos específicos
-1. Compreender o funcionamento, os limites e o uso ético e seguro da IA generativa aplicada à prestação de serviços;
+1. Compreender o funcionamento, os limites e o uso ético e seguro da IA generativa e dominar a engenharia de prompt aplicada à prestação de serviços;
 2. Identificar oportunidades de serviços digitais com demanda no território e escolher um foco de atuação;
 3. Produzir, com IA, serviços profissionais de design, texto, áudio/vídeo e automação;
 4. Estruturar a oferta como negócio: precificação, proposta comercial, canais de divulgação e formalização (MEI);
@@ -28,19 +28,19 @@
 
 ## Grade modular — 12 encontros de 3h (36h)
 
-### Bloco I — Fundamentos e Direcionamento (encontros 1–2)
+### Bloco I — Fundamentos, Engenharia de Prompt e Direcionamento (encontro 1)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 1 | Fundamentos de IA e Uso Responsável | O que a IA generativa faz e não faz; limites e erros; privacidade, LGPD e ética; como escrever boas instruções (contexto–tarefa–formato) | Guia pessoal de uso seguro + 10 instruções-base |
-| 2 | O Mercado de Serviços Digitais | Panorama de serviços com IA e sua demanda no território; identificação de talentos pessoais; escolha do foco de atuação | Mapa de oportunidades + foco de serviço definido |
+| 1 | Fundamentos de IA, Engenharia de Prompt e Direcionamento | O que a IA generativa faz e não faz; limites, erros, privacidade, LGPD e ética; **engenharia de prompt: estrutura contexto–tarefa–formato–exemplo, refinamento iterativo, prompts reutilizáveis para serviços**; panorama de serviços com demanda no território e escolha do foco de atuação | Biblioteca pessoal de prompts de serviço + foco de atuação definido |
 
-### Bloco II — Produção de Serviços (encontros 3–8)
+### Bloco II — Produção de Serviços (encontros 2–8)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 3 | Serviços de Identidade Visual e Design | Criação de logotipos, artes, banners e materiais gráficos com IA; ajustes e padronização | 1º serviço no portfólio: peça de identidade visual |
-| 4 | Serviços de Design Aplicado | Cardápios, catálogos, convites, apresentações e materiais para comércios locais | Kit de peças gráficas para um segmento |
+| 2 | Serviços de Identidade Visual e Design | Criação de logotipos, artes, banners e materiais gráficos com IA; ajustes e padronização | 1º serviço no portfólio: peça de identidade visual |
+| 3 | Serviços de Design Aplicado | Cardápios, catálogos, convites, apresentações e materiais para comércios locais | Kit de peças gráficas para um segmento |
+| 4 | Serviços de Imagem e Fotografia de Produto com IA | Tratamento e aprimoramento de fotos; remoção e troca de fundo; fotos de catálogo e de produto para pequeno comércio | Pacote de imagens de produto tratadas |
 | 5 | Serviços de Redação e Conteúdo | Textos publicitários, descrições de produto, legendas, roteiros e artigos com IA | 2º serviço no portfólio: pacote de textos |
-| 6 | Serviços de Áudio e Vídeo | Roteiro, edição assistida, legendas, narração e vídeos curtos para redes com IA | 3º serviço no portfólio: vídeo curto produzido |
+| 6 | Serviços de Áudio, Vídeo e YouTube | Roteiro, edição assistida, legendas e narração com IA; vídeos curtos para redes; **produção para YouTube: thumbnails que geram cliques, títulos e descrições otimizados** | 3º serviço no portfólio: vídeo curto + thumbnail de YouTube |
 | 7 | Serviços de Presença Digital para Terceiros | Gestão de conteúdo e calendário editorial para pequenos negócios; criação de perfis profissionais | Plano de conteúdo de 30 dias para um cliente |
 | 8 | Serviços de Automação e Atendimento | Configuração de respostas automáticas, catálogos e fluxos simples de atendimento para clientes | Automação simples demonstrável |
 
