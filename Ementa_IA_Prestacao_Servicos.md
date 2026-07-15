@@ -2,7 +2,7 @@
 ## Projeto "Reconstruir e Prosperar ZN" — Instituto BZN — Edital 02/2026/FRBL
 ### (Curso 2 de 4 — versão aprovada.)
 
-**36h · 12 encontros de 3 horas-aula · turmas de 10 · [nº de turmas a definir na consolidação]**
+**48h · 16 encontros de 3 horas-aula · turmas de 10 · [nº de turmas a definir na consolidação]**
 
 ## Ficha técnica
 
@@ -13,10 +13,10 @@
 | **Objetivo geral** | Capacitar pessoas para desenvolver serviços profissionais utilizando inteligência artificial, possibilitando geração de renda, inserção no mercado digital e criação de novos negócios. |
 | **Público-alvo** | Pessoas de 16 a 59 anos em situação de vulnerabilidade social, residentes na Zona Norte, **que não necessariamente possuem negócio próprio** e buscam uma nova fonte de renda por meio da prestação de serviços digitais, com prioridade conforme a matriz de vulnerabilidade do projeto (atingidos pelas enchentes de 2024, mulheres chefes de família, CadÚnico, jovens sem primeiro emprego). |
 | **Pré-requisitos** | Nenhum conhecimento prévio de tecnologia; desejo de gerar renda por conta própria. |
-| **Perfil do egresso** | Prestador(a) de serviços digitais apto(a) a oferecer, precificar e entregar ao menos três tipos de serviço com apoio de IA, com portfólio publicado e primeiros clientes prospectados. |
-| **Metodologia** | Aprender-produzindo com foco em entrega vendável: cada bloco de encontros gera um serviço real para o portfólio; a segunda metade do curso funciona como "ateliê de produção" com clientes-piloto reais; 1 estação por aluno; projeto final = atendimento completo de um cliente real. |
-| **Avaliação** | Rubrica por serviço entregue ao portfólio + avaliação do atendimento ao cliente-piloto na banca final; conclusão = ≥75% de presença + portfólio com no mínimo 3 serviços. |
-| **Produto final** | **Portfólio Profissional de Serviços Digitais** (mínimo 3 serviços vendáveis) + **1 atendimento real a cliente-piloto concluído** + tabela de preços e canais de divulgação ativos. |
+| **Perfil do egresso** | Prestador(a) de serviços digitais apto(a) a oferecer, precificar e entregar ao menos cinco tipos de serviço com apoio de IA, com portfólio publicado e primeiros clientes prospectados. |
+| **Metodologia** | Aprender-produzindo com foco em entrega vendável: o extenso bloco de produção criativa gera múltiplos serviços reais para o portfólio; a etapa final funciona como "ateliê de produção" com clientes-piloto reais; 1 estação por aluno; projeto final = atendimento completo de um cliente real. |
+| **Avaliação** | Rubrica por serviço entregue ao portfólio + avaliação do atendimento ao cliente-piloto na banca final; conclusão = ≥75% de presença + portfólio com no mínimo 5 serviços. |
+| **Produto final** | **Portfólio Profissional de Serviços Digitais** (mínimo 5 serviços vendáveis) + **1 atendimento real a cliente-piloto concluído** + tabela de preços e canais de divulgação ativos. |
 
 ## Objetivos específicos
 1. Compreender o funcionamento, os limites e o uso ético e seguro da IA generativa e dominar a engenharia de prompt aplicada à prestação de serviços;
@@ -26,39 +26,43 @@
 5. Prospectar clientes, atender e entregar um serviço real do início ao fim;
 6. Montar e publicar um portfólio profissional e planejar a continuidade da atividade.
 
-## Grade modular — 12 encontros de 3h (36h)
+## Grade modular — 16 encontros de 3h (48h)
 
 ### Bloco I — Fundamentos, Engenharia de Prompt e Direcionamento (encontro 1)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
 | 1 | Fundamentos de IA, Engenharia de Prompt e Direcionamento | O que a IA generativa faz e não faz; limites, erros, privacidade, LGPD e ética; **engenharia de prompt: estrutura contexto–tarefa–formato–exemplo, refinamento iterativo, prompts reutilizáveis para serviços**; panorama de serviços com demanda no território e escolha do foco de atuação | Biblioteca pessoal de prompts de serviço + foco de atuação definido |
 
-### Bloco II — Produção de Serviços (encontros 2–8)
+### Bloco II — Produção Criativa de Serviços (encontros 2–11 — núcleo do curso)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 2 | Serviços de Identidade Visual e Design | Criação de logotipos, artes, banners e materiais gráficos com IA; ajustes e padronização | 1º serviço no portfólio: peça de identidade visual |
-| 3 | Serviços de Design Aplicado | Cardápios, catálogos, convites, apresentações e materiais para comércios locais | Kit de peças gráficas para um segmento |
-| 4 | Serviços de Imagem e Fotografia de Produto com IA | Tratamento e aprimoramento de fotos; remoção e troca de fundo; fotos de catálogo e de produto para pequeno comércio | Pacote de imagens de produto tratadas |
-| 5 | Serviços de Redação e Conteúdo | Textos publicitários, descrições de produto, legendas, roteiros e artigos com IA | 2º serviço no portfólio: pacote de textos |
-| 6 | Serviços de Áudio, Vídeo e YouTube | Roteiro, edição assistida, legendas e narração com IA; vídeos curtos para redes; **produção para YouTube: thumbnails que geram cliques, títulos e descrições otimizados** | 3º serviço no portfólio: vídeo curto + thumbnail de YouTube |
-| 7 | Serviços de Presença Digital para Terceiros | Gestão de conteúdo e calendário editorial para pequenos negócios; criação de perfis profissionais | Plano de conteúdo de 30 dias para um cliente |
-| 8 | Serviços de Automação e Atendimento | Configuração de respostas automáticas, catálogos e fluxos simples de atendimento para clientes | Automação simples demonstrável |
+| 2 | Identidade Visual e Logotipo com IA | Criação de logotipos, paleta, tipografia e identidade de marca; variações e padronização | 1º serviço no portfólio: identidade visual completa |
+| 3 | Design de Materiais para Comércios | Cardápios, catálogos, convites, panfletos e apresentações para negócios locais | Kit de peças gráficas para um segmento |
+| 4 | Fotografia e Imagem de Produto com IA | Tratamento e aprimoramento de fotos; remoção e troca de fundo; fotos de catálogo para pequeno comércio | Pacote de imagens de produto tratadas |
+| 5 | Edição e Composição Visual Avançada | Montagens, mockups, banners, artes para campanhas e datas comemorativas | 2º serviço no portfólio: campanha visual |
+| 6 | Redação Publicitária e Conteúdo com IA | Textos de venda, descrições de produto, legendas e artigos; tom de voz da marca | 3º serviço no portfólio: pacote de textos |
+| 7 | Roteiro e Storytelling para Conteúdo | Roteiros para redes e vídeos; narrativa de marca; ganchos e chamadas | Roteiros prontos para produção |
+| 8 | Áudio, Narração e Locução com IA | Narração sintetizada, podcasts curtos, áudios de divulgação e trilhas | Peça de áudio para o portfólio |
+| 9 | Produção de Vídeo Curto para Redes | Edição assistida, legendas automáticas, cortes e vídeos verticais para redes | 4º serviço no portfólio: vídeo curto editado |
+| 10 | YouTube: Thumbnails, Títulos e Canal | **Thumbnails que geram cliques; títulos e descrições otimizados; organização e identidade de canal** | Pacote de thumbnails + otimização de vídeo |
+| 11 | Presença Digital e Automação de Atendimento | Gestão de conteúdo e calendário editorial para terceiros; perfis profissionais; respostas automáticas e fluxos de atendimento | 5º serviço no portfólio: gestão de presença + automação |
 
-### Bloco III — Estruturar como Negócio (encontros 9–10)
+### Bloco III — Estruturar como Negócio (encontros 12–13)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 9 | Precificação e Proposta Comercial | Como cobrar por serviço digital; pacotes; proposta e contrato simples; formas de recebimento; formalização (MEI) | Tabela de preços + modelo de proposta |
-| 10 | Prospecção e Relacionamento com Clientes | Onde e como encontrar clientes; abordagem e negociação; canais de divulgação; reputação e recomendação | Roteiro de prospecção + canais ativos |
+| 12 | Precificação, Pacotes e Proposta Comercial | Como cobrar por serviço digital; pacotes e combos; proposta e contrato simples; formas de recebimento; formalização (MEI) | Tabela de preços + modelo de proposta |
+| 13 | Prospecção, Canais e Relacionamento com Clientes | Onde e como encontrar clientes; abordagem e negociação; canais de divulgação; reputação e recomendação | Roteiro de prospecção + canais ativos |
 
-### Bloco IV — Ateliê de Cliente Real e Lançamento (encontros 11–12)
+### Bloco IV — Ateliê de Cliente Real e Lançamento (encontros 14–16)
 | Enc. | Módulo | Conteúdo | Entregável |
 |---|---|---|---|
-| 11 | Ateliê — Atendimento a Cliente-Piloto | Atendimento real do briefing à entrega, com supervisão; uso do Estúdio/Lab Aberto | Serviço real entregue a um cliente-piloto |
-| 12 | Portfólio, Banca e Lançamento | Montagem e publicação do portfólio; apresentação em banca com convidados; plano de continuidade da atividade | **Portfólio publicado + atendimento apresentado em banca** |
+| 14 | Ateliê I — Briefing e Produção para Cliente-Piloto | Recepção do pedido, briefing e início da produção real, com supervisão; uso do Estúdio/Lab Aberto | Briefing + produção iniciada |
+| 15 | Ateliê II — Entrega, Ajustes e Fechamento | Revisão, ajustes com o cliente, entrega final e cobrança | Serviço real entregue a um cliente-piloto |
+| 16 | Portfólio, Banca e Lançamento | Montagem e publicação do portfólio; apresentação em banca com convidados; plano de continuidade da atividade | **Portfólio publicado + atendimento apresentado em banca** |
 
 ## Indicadores de sucesso
 - Taxa de conclusão ≥75%;
-- 100% dos concluintes com portfólio publicado (≥3 serviços) e ao menos 1 atendimento real concluído;
+- 100% dos concluintes com portfólio publicado (≥5 serviços) e ao menos 1 atendimento real concluído;
 - ≥30% dos egressos com renda nova verificada em 6 meses (comprovante de serviço prestado, recebimento ou registro de MEI), aferido na pesquisa de egressos;
 - ≥15% dos egressos atuando como monitores voluntários das turmas Autonomia 60+ (apoio digital intergeracional).
 
@@ -70,4 +74,5 @@
 ---
 ## Pendências de consolidação (resolver ao fechar os 4 cursos)
 - **Vagas:** turma de 10 confirmada; definir nº de turmas (impacta total de beneficiários e orçamento de instrutoria).
-- Este curso agora tem **introdução própria** (Enc. 1) — a ideia anterior de compartilhar o 1º encontro com o outro curso de IA foi superada, pois as cargas horárias e turmas ficaram distintas (24h × 36h). Cada curso é autônomo.
+- Este curso agora tem **introdução própria** (Enc. 1) — a ideia anterior de compartilhar o 1º encontro com o outro curso de IA foi superada, pois as cargas horárias e turmas ficaram distintas (Empreendedores 24h × Serviços 48h). Cada curso é autônomo.
+- **Carga horária ampliada de 36h para 48h (16 encontros)** a pedido do Instituto, para dar tempo adequado à produção criativa — o Bloco II (produção) passou de 7 para 10 encontros. *(Nota: 48h em encontros de 3h corresponde a 16 encontros, +4 sobre os 12 originais; caso a intenção seja 42h/14 encontros, reduzir o Bloco II em 2 encontros.)*
